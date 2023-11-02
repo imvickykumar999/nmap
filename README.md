@@ -1,12 +1,10 @@
-# `Nmap`
+> # `Nmap` stands for `Network Mapper`.
+> 
+> **It's a free, open-source tool that's used for network discovery, security auditing, and vulnerability checking.**
+>
+> ![image](https://github.com/imvickykumar999/nmap/assets/50515418/48099c93-19e0-41ea-b14f-c23a60480327)
 
-## Nmap stands for `Network Mapper`. 
-
-![image](https://github.com/imvickykumar999/nmap/assets/50515418/48099c93-19e0-41ea-b14f-c23a60480327)
-
---------------
-
-It's a free, open-source tool that's used for network discovery, security auditing, and vulnerability checking. 
+<br>
 
     Nmap can be used to: 
 
@@ -20,12 +18,14 @@ It's a free, open-source tool that's used for network discovery, security auditi
 - Manage service upgrade schedules
 - Monitor host or service uptime
 
-Nmap was designed by Gordon Lyon. It was originally written in C, C++, Python, and Lua programming languages. It can run on Windows, Mac OS, Gentoo, and BSD, but it's most popular on Linux. 
+<br>
 
--------------
+*Nmap was designed by Gordon Lyon. It was originally written in C, C++, Python, and Lua programming languages. It can run on Windows, Mac OS, Gentoo, and BSD, but it's most popular on Linux.*
+
+<br>
 
 ## `Reference Links:`
 
-- Hands-on: https://youtu.be/I9RkcSduI7g?t=6089
-- Download Tutorial: https://youtu.be/_cx0GvdUw5k
-- Download Page: https://nmap.org/download#windows
+- *Hands on*: https://youtu.be/I9RkcSduI7g?t=6089
+- *Download Tutorial*: https://youtu.be/_cx0GvdUw5k
+- *Download Page*: https://nmap.org/download#windows
