@@ -1,14 +1,16 @@
 
-    >>> nmap 192.168.1.0/24
+```bash
+>>> nmap 192.168.1.0/24
 
-```
 Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-02 11:57 India Standard Time
 Nmap done: 256 IP addresses (0 hosts up) scanned in 207.53 seconds
 ```
 
-    >>> nmap -sT -vv -sC -p 8080 192.168.0.102
+<br>
 
-```
+```bash
+>>> nmap -sT -vv -sC -p 8080 192.168.0.102
+
 Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-02 12:25 India Standard Time
 NSE: Loaded 126 scripts for scanning.
 NSE: Script Pre-scanning.
