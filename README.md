@@ -2,6 +2,8 @@
 
 ## Nmap stands for `Network Mapper`. 
 
+![image](https://github.com/imvickykumar999/nmap/assets/50515418/48099c93-19e0-41ea-b14f-c23a60480327)
+
 --------------
 
 It's a free, open-source tool that's used for network discovery, security auditing, and vulnerability checking. 
